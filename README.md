@@ -2,8 +2,7 @@
 Demo project for Spring Boot API Rest with Swagger 2
 
 
-# Links to verify SpringFox and SwaggerUI
-
+## Links to verify SpringFox and SwaggerUI
 
 - Visit the following URL in the browser to verify that SpringFox is working
 
@@ -17,6 +16,8 @@ http://localhost:8080/v2/api-docs
 http://localhost:8080/swagger-ui.html
 ```
 
+
+## Requests to test the API
 
 - GET Request to get an user
 
